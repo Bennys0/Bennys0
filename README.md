@@ -1,4 +1,4 @@
-<img align="center" src="https://media1.tenor.com/m/q6O7CPRIxsUAAAAC/misaka-mikoto-shirai-kuroko.gif"/>
+<img src="https://media1.tenor.com/m/q6O7CPRIxsUAAAAC/misaka-mikoto-shirai-kuroko.gif"/>
 <!--
 **Bennys0/Bennys0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
