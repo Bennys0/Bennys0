@@ -1,4 +1,4 @@
-<img align="left" src="https://media1.tenor.com/m/dexjLvFk3_MAAAAd/misaka-mikoto-misaka.gif"/>
+<img align="left" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Frailgun-misaka-gifs&psig=AOvVaw1sXJGnov9_guER6e_QnlAt&ust=1755320567322000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJD60dmEjI8DFQAAAAAdAAAAABAE"/>
 <!--
 **Bennys0/Bennys0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
