@@ -1,5 +1,4 @@
-(https://tenor.com/bfndQ.gif)
-
+<img align="left" src="https://media1.tenor.com/m/dexjLvFk3_MAAAAd/misaka-mikoto-misaka.gif"/>
 <!--
 **Bennys0/Bennys0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
